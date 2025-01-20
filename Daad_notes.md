@@ -90,8 +90,6 @@ A donde montar el proyecto? 🟨
 
 ### Fecha para irnos?
 
-
-
 [Becas para estudiantes de pregrados](https://www.daad.co/es/becas/becas-para-estudiantes-de-pregrado/)
 
 [Descripcion](https://www.daad.co/files/2024/12/1_GUIA_convocatoria_VIAJES_ESTUDIOS_2025_2026_Diciembre-2024.pdf)
@@ -116,3 +114,10 @@ A donde montar el proyecto? 🟨
 [Propuesta que se mando el semestre pasado](https://eafit-my.sharepoint.com/:w:/g/personal/vdarangos_eafit_edu_co/ERPxmMynsRtCkU_fFqXBbygBr__gT-0m0EbA6C5FUPGrhw?e=QpXiw6)
 
 [Notas para llenar el formulario pasado](https://eafit-my.sharepoint.com/:w:/g/personal/vdarangos_eafit_edu_co/EXIyE0BhloROq3YeVHcPZnEBD_g2gbf2MXq5jh_69Cu8Qg?e=4P1QxE)
+
+
+
+### Correo de ayuda en eafit para esto
+
+
+dmnietor@eafit.edu.co
