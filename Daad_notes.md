@@ -97,3 +97,22 @@ A donde montar el proyecto? 🟨
 [Descripcion](https://www.daad.co/files/2024/12/1_GUIA_convocatoria_VIAJES_ESTUDIOS_2025_2026_Diciembre-2024.pdf)
 
 [ayuda para tanta burocracia](https://www.daad.de/sapportal/hilfe/hb_download/en.html)
+
+
+### Referecias de becas pasadas
+
+[ejemplo propuesta de biologia](https://eafit-my.sharepoint.com/:w:/g/personal/vdarangos_eafit_edu_co/EZCJZvDYHVNFkdZDlVlLczQBLv60pOZQce0TAs2mr2s19g?e=XcUIim)
+
+[Project application translator](https://eafit-my.sharepoint.com/:w:/g/personal/vdarangos_eafit_edu_co/EYvjZ-ZndfxOixCc0QMGCFkBmOob5rlZKTmX6-H6bWDJ2Q?e=n2EPEV)
+
+[Paso a paso](https://eafit-my.sharepoint.com/:w:/g/personal/vdarangos_eafit_edu_co/EWUYrCzImGFIhb4wvuYiqXgBhnFFJSD85Y_l0IpnQtC0rg?e=Eff4im)
+
+[formulario de actividades para manandar a alemania ](https://eafit-my.sharepoint.com/:w:/g/personal/vdarangos_eafit_edu_co/ER6TvSW3epVJjENARMm7AicB0aUpPnzj8bmnSobilfxEgA?e=ulPf6X)
+
+[Ejemplo lista pasada](https://eafit-my.sharepoint.com/:x:/g/personal/vdarangos_eafit_edu_co/EemkRf0qgAZMuWPptrmg6GIBO0VsTt7ZKHqPxAl5XkY8XA?e=BBalht)
+
+** Propuesta que se mando el semestre pasado **
+
+[Propuesta que se mando el semestre pasado](https://eafit-my.sharepoint.com/:w:/g/personal/vdarangos_eafit_edu_co/ERPxmMynsRtCkU_fFqXBbygBr__gT-0m0EbA6C5FUPGrhw?e=QpXiw6)
+
+[Notas para llenar el formulario pasado](https://eafit-my.sharepoint.com/:w:/g/personal/vdarangos_eafit_edu_co/EXIyE0BhloROq3YeVHcPZnEBD_g2gbf2MXq5jh_69Cu8Qg?e=4P1QxE)
