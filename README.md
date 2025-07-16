@@ -11,9 +11,6 @@ You can find our group documentation in the following pages:
 * 📖 [Syllabus – Learning Path and Topics](https://github.com/Semillero-Inteligencia-Artificial-EAFIT/WIKI/blob/main/Syllabus.md)
 * 🛠️ [Manual of Responsibilities – Beginner, Intermediate, and Advanced Roles](https://github.com/Semillero-Inteligencia-Artificial-EAFIT/WIKI/blob/main/Manual.md)
 
-## 📱 Click App Usage
-
-We use the [Click](https://palletsprojects.com/p/click/) app in our development environment to streamline command-line interactions and automate routine tasks. It allows us to build clean, composable CLI tools for our Python-based projects.
 
 ## 👥 About the Group
 
